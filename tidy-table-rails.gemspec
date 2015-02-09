@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'tidy-table/rails/version'
+require 'tidy/table/rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "tidy-table-rails"
-  spec.version       = TidyTable::Rails::VERSION
+  spec.version       = Tidy::Table::Rails::VERSION
   spec.authors       = ["dbackowski"]
   spec.email         = ["damianbackowski@gmail.com"]
   spec.summary       = %q{Create a HTML table from JSON that can be sorted, selected, and post-processed using a simple callback.}

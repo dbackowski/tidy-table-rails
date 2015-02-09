@@ -1,4 +1,4 @@
-# TidyTable::Rails
+# Tidy::Table::Rails
 
 Asset pipeline bundling of the tidy table jquery plugin (https://labs.mbrooks.info/demos/Tidy-Table/).
 
