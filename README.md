@@ -1,6 +1,6 @@
 # Tidy::Table::Rails
 
-Asset pipeline bundling of the tidy table jquery plugin (http://nuxy.github.io/Tidy-Table/).
+Asset pipeline bundling of the tidy table jquery plugin.
 
 ## Installation
 
@@ -26,7 +26,7 @@ And in your application.js:
 
 ## Usage
 
-https://labs.mbrooks.info/demos/Tidy-Table/
+http://nuxy.github.io/Tidy-Table/
 
 ## Contributing
 
