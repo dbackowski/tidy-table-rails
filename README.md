@@ -1,4 +1,4 @@
-# Tidy::Table::Rails
+# Tidy::Table::Rails [![Build Status](https://travis-ci.org/dbackowski/tidy-table-rails.svg?branch=master)](https://travis-ci.org/dbackowski/tidy-table-rails)
 
 Asset pipeline bundling of the tidy table jquery plugin.
 
